@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 79d82c66f1df30849a6d013d0910fe67
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Jacoba
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8b2016a2c716a11478713d031faf8223, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

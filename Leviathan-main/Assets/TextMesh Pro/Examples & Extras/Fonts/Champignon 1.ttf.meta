@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6c10c0d260432fb45b5747778e3a2ba2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Champignon
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: cb5425fb58b36ea4ba88833ec9f868f4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba170d3291a2467792e2d4580093e684, type: 3}
+  m_Name: Question5
+  m_EditorClassIdentifier: 
+  question: Greetings our highness. The court needs your judgement in a case of unknown
+    cruelty. Cannibalism, my lord. The monster is claiming that the was an verbal
+    agreement between him and his victim, that for one to survive, the other would
+    sacrifice his body and live. I think he's clearly lying but the ongoing starvation
+    wave let's people make horrible decisions.
+  answer1: Throw him into the prison...
+  answer2: Off with his head...
+  consequence_1: Whats right and whats wrong? Can a man be sentenced to death only
+    based on the fact that there is no proof of his words? I don't think that is
+    right. The man literally gave his body to help another one survive. If the survivor
+    would have been executed, the sacrifice would have been pointless.
+  consequence_2: Dark times bring out  the animal, the beast, that sleeps in all
+    of us. It lets men and women do horrible things... Even if its understandable
+    that he just wanted to survive, there is no justification for this monstrosity
+    in our world. Even if it means suffering even more, we can't allow a violation
+    of our humanity or anarchy will be to only sign left...
+  effects_1: 0a000000f6ffffff00000000f6ffffff
+  effects_2: f6ffffff0a000000000000000a000000
+  nextQuestion_1: 0
+  nextQuestion_2: 0
+  character: {fileID: 21300000, guid: b7ff1342e61354142a034fcb206a7d23, type: 3}
